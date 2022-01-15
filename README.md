@@ -8,3 +8,4 @@ Organized list of repos
 
 ## Learning:
 - Book - [Automate the Boring Stuff with Python](https://github.com/MasonDenney/atbswp)
+- Book - [Data Structures and Algorithms in Python](https://github.com/MasonDenney/dsaaip)
