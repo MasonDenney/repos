@@ -7,5 +7,6 @@ Organized list of repos
 - [repos](https://github.com/MasonDenney/repos) - Organized ist of repos
 
 ## Learning:
-- Book - [Automate the Boring Stuff with Python](https://github.com/MasonDenney/atbswp)
+- Labs - [overthewire](https://github.com/MasonDenney/overthewire)
 - Book - [Data Structures and Algorithms in Python](https://github.com/MasonDenney/dsaaip)
+- Book - [Automate the Boring Stuff with Python](https://github.com/MasonDenney/atbswp)
